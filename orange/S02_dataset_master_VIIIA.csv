@@ -1,0 +1,25 @@
+﻿ID_Elev,Clasa,Disciplina,Unitate_Invatare,Media_Curenta,Absente_Nemotivate,Absente_Categorie,Scor_Initial,MiniTest_Procent,Scor_Final,Progres,Status_Test,I1,I2,I3,I4,I5,I6,I7,I8,C1_Calcul_Algebric_Pct,C2_Ecuatii_Pct,C3_Modelare_Pct,Rata_Finalizare_Teme,Finalizare_Teme_Categorie,Punctaj_Mediu_Teme,Zile_Active_LMS,Nr_Evenimente_LMS,Nr_Resurse_Distincte,Claritate,Dificultate,Ritm,Incredere_Dupa_Lectie,Comentariu
+E001,VIII A,Matematică,Ecuații și probleme,5.67,2,1–2 absențe,37.5,39.3,48.6,11.1,evaluat,0,1,0,0,0,1,0,1,33.3,33.3,50.0,1.0,3/3 teme,79.3,3,3,3,5.0,2.0,5.0,5.0,Aș mai vrea exerciții cu probleme.
+E002,VIII A,Matematică,Ecuații și probleme,9.0,1,1–2 absențe,87.5,88.8,97.4,9.9,evaluat,1,1,1,1,1,1,0,1,100.0,100.0,50.0,0.67,2/3 teme,90.5,4,5,5,4.0,5.0,5.0,4.0,Ritmul a fost bun.
+E003,VIII A,Matematică,Ecuații și probleme,8.0,0,0 absențe,75.0,80.4,81.8,6.8,evaluat,1,0,1,1,1,0,1,1,66.7,66.7,100.0,1.0,3/3 teme,94.3,8,10,5,5.0,4.0,3.0,5.0,Exemplele rezolvate m-au ajutat.
+E004,VIII A,Matematică,Ecuații și probleme,6.33,2,1–2 absențe,50.0,50.9,60.6,10.6,evaluat,1,1,0,0,0,1,0,1,66.7,33.3,50.0,1.0,3/3 teme,77.7,6,9,5,,,,,
+E005,VIII A,Matematică,Ecuații și probleme,6.0,1,1–2 absențe,50.0,53.4,63.2,13.2,evaluat,0,1,1,1,0,0,1,0,66.7,33.3,50.0,0.67,2/3 teme,72.5,8,11,5,5.0,2.0,2.0,5.0,Mi-a fost utilă verificarea pas cu pas.
+E006,VIII A,Matematică,Ecuații și probleme,8.67,0,0 absențe,75.0,74.4,77.5,2.5,evaluat,1,1,1,1,0,0,1,1,100.0,33.3,100.0,0.33,1/3 teme,86.0,4,5,5,3.0,5.0,4.0,3.0,Ecuațiile cu paranteze au fost mai dificile.
+E007,VIII A,Matematică,Ecuații și probleme,7.0,2,1–2 absențe,62.5,75.0,81.0,18.5,evaluat,1,1,1,0,0,1,1,0,100.0,33.3,50.0,0.67,2/3 teme,78.0,5,9,5,4.0,4.0,3.0,4.0,Ecuațiile cu paranteze au fost mai dificile.
+E008,VIII A,Matematică,Ecuații și probleme,6.67,4,3+ absențe,50.0,60.0,67.6,17.6,evaluat,0,1,0,0,1,0,1,1,33.3,33.3,100.0,1.0,3/3 teme,79.3,7,9,5,3.0,4.0,4.0,3.0,Mi-a fost utilă verificarea pas cu pas.
+E009,VIII A,Matematică,Ecuații și probleme,7.0,4,3+ absențe,62.5,71.1,73.1,10.6,evaluat,1,1,0,1,1,0,0,1,66.7,66.7,50.0,0.67,2/3 teme,89.5,8,12,5,,,,,
+E010,VIII A,Matematică,Ecuații și probleme,9.33,1,1–2 absențe,87.5,97.9,100.0,12.5,evaluat,0,1,1,1,1,1,1,1,66.7,100.0,100.0,0.67,2/3 teme,75.5,6,8,5,4.0,4.0,5.0,2.0,Exemplele rezolvate m-au ajutat.
+E011,VIII A,Matematică,Ecuații și probleme,7.33,0,0 absențe,75.0,84.2,92.8,17.8,evaluat,1,0,1,1,1,0,1,1,66.7,66.7,100.0,1.0,3/3 teme,77.0,8,13,5,4.0,4.0,5.0,3.0,Ritmul a fost bun.
+E012,VIII A,Matematică,Ecuații și probleme,8.33,0,0 absențe,75.0,79.0,84.0,9.0,evaluat,1,1,1,1,0,1,1,0,100.0,66.7,50.0,1.0,3/3 teme,90.0,7,9,5,5.0,4.0,5.0,2.0,Aș mai vrea exerciții cu probleme.
+E013,VIII A,Matematică,Ecuații și probleme,8.0,4,3+ absențe,100.0,98.3,100.0,0.0,evaluat,1,1,1,1,1,1,1,1,100.0,100.0,100.0,1.0,3/3 teme,80.0,6,8,5,4.0,3.0,4.0,4.0,Mi-a fost utilă verificarea pas cu pas.
+E014,VIII A,Matematică,Ecuații și probleme,9.33,4,3+ absențe,87.5,99.2,100.0,12.5,evaluat,1,1,1,1,1,0,1,1,100.0,66.7,100.0,1.0,3/3 teme,67.7,4,7,4,3.0,2.0,4.0,3.0,Ecuațiile cu paranteze au fost mai dificile.
+E015,VIII A,Matematică,Ecuații și probleme,7.33,3,3+ absențe,50.0,57.1,55.4,5.4,evaluat,1,0,0,1,1,0,0,1,33.3,66.7,50.0,1.0,3/3 teme,78.0,6,7,5,4.0,2.0,3.0,4.0,Aș mai vrea exerciții cu probleme.
+E016,VIII A,Matematică,Ecuații și probleme,9.33,4,3+ absențe,100.0,100.0,100.0,0.0,evaluat,1,1,1,1,1,1,1,1,100.0,100.0,100.0,1.0,3/3 teme,82.3,6,8,5,,,,,
+E017,VIII A,Matematică,Ecuații și probleme,5.0,4,3+ absențe,50.0,56.7,67.8,17.8,evaluat,1,1,0,0,1,0,1,0,66.7,33.3,50.0,0.67,2/3 teme,75.5,3,5,4,4.0,3.0,5.0,3.0,Ritmul a fost bun.
+E018,VIII A,Matematică,Ecuații și probleme,9.33,3,3+ absențe,62.5,65.4,74.8,12.3,evaluat,1,1,1,0,1,0,1,0,100.0,33.3,50.0,0.67,2/3 teme,93.0,5,9,5,3.0,4.0,5.0,5.0,Ritmul a fost bun.
+E019,VIII A,Matematică,Ecuații și probleme,6.33,3,3+ absențe,,60.0,68.0,,absent,,,,,,,,,,,,0.33,1/3 teme,64.0,2,2,2,5.0,4.0,5.0,3.0,Exemplele rezolvate m-au ajutat.
+E020,VIII A,Matematică,Ecuații și probleme,10.0,4,3+ absențe,87.5,90.0,94.0,6.5,evaluat,1,1,1,1,0,1,1,1,100.0,66.7,100.0,1.0,3/3 teme,80.3,7,9,5,5.0,3.0,2.0,2.0,Exemplele rezolvate m-au ajutat.
+E021,VIII A,Matematică,Ecuații și probleme,5.67,1,1–2 absențe,37.5,45.2,46.5,9.0,evaluat,1,1,0,0,0,0,1,0,66.7,0.0,50.0,1.0,3/3 teme,87.0,5,7,5,,,,,
+E022,VIII A,Matematică,Ecuații și probleme,4.67,2,1–2 absențe,37.5,44.4,43.8,6.3,evaluat,0,1,0,0,1,0,1,0,33.3,33.3,50.0,0.67,2/3 teme,76.5,8,10,5,3.0,3.0,5.0,4.0,Mi-a fost utilă verificarea pas cu pas.
+E023,VIII A,Matematică,Ecuații și probleme,4.67,1,1–2 absențe,50.0,59.3,68.9,18.9,evaluat,1,1,1,0,0,1,0,0,100.0,33.3,0.0,1.0,3/3 teme,72.0,4,5,5,4.0,4.0,3.0,2.0,Mi-a fost utilă verificarea pas cu pas.
+E024,VIII A,Matematică,Ecuații și probleme,5.33,1,1–2 absențe,25.0,35.0,46.1,21.1,evaluat,1,1,0,0,0,0,0,0,66.7,0.0,0.0,1.0,3/3 teme,79.0,4,7,5,4.0,2.0,2.0,2.0,Exemplele rezolvate m-au ajutat.
